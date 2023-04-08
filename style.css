@@ -1,0 +1,42 @@
+*{
+    font-size: 20px;
+    background-color: beige;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+}
+body .Skills p{
+    text-align: left;
+    font-weight: lighter;
+    font-style: oblique;
+    
+}
+.Skills h1{
+    text-align: left;
+    font-size: 30px;
+    
+}
+.Skills h2{
+    text-align: left;
+    font-weight: bolder;
+    color: rgb(142, 142, 244);
+}
+body .Image_profile img{
+    border-radius: 5rem;
+    border-style: double; color: rgb(164, 241, 216);
+}
+body .linkedin img{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 5rem;
+    position: relative;left: 0px;top: 10px;
+}
+.AM {
+text-align: left;
+}
+.am{
+text-align: left;
+}
